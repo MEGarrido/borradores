@@ -1,0 +1,1 @@
+*MOVILIDAD DEL PERSONAJE: Para mover al personaje, utilice la tecla A para moverse a la izquierda y la tecla D para moverse hacia la derecha.                                                                                     *ATAQUE: Para atacar al enemigo, toque el click izquierdo del mouse.
